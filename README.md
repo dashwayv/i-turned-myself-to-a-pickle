@@ -17,7 +17,9 @@ Hello, i am wayvee, an aspiring SDE, AI ML Specialist, Data Scientist, Full-Stac
 
 Sounds great? Haha, got you! Nothing - I just used a  fancy-ish title to make it sound more that it actually should should, ugh anyways <b>these are the Collections:</b>
 
-- Automated Desktop Set-up on Startup
+- NOPE - <i> Just my computer absolutely hating you </i>
+- RISE N SHINE - <i> Goodmorning texts on useless information and random insults that you definitely deserve. </i>
+- STARTUP SETUP - <i>Automated Desktop Set-up on Startup</i>
 - Michael Reeves Twitter Bot
 - Python Spam Bot
 
