@@ -1,4 +1,4 @@
-# Absolute Bullshite Collection <img src="https://media.giphy.com/media/W4tf7M2R7jUC9YjFcG/giphy.gif" width="50" alt="a shit image">
+# Absolute Bonkers Collection <img src="https://media.giphy.com/media/W4tf7M2R7jUC9YjFcG/giphy.gif" width="50" alt="a shit image">
 
 Hello, i am wayvee, an aspiring SDE, AI ML Specialist, Data Scientist, Full-Stack Cyber-security expert that aspires to create an advanced, better society and humankind with code, software technologies and recreate Earth.png. It is the 21st Century, everyone wants to create smart solutions. You want a smart home, smart city, smart car, smart toilets and maybe even a smart government. <b> But in our hearts, lets be real, we crave for something absolutely stupid.  </b>
 
